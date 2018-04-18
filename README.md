@@ -1,2 +1,4 @@
 # Onyx
-A self-organising network dedicated to execite tasks
+Another Rust Project
+
+Intention is to learn more about Rust.
